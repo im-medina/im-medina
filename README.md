@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Medina
+### Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Medina
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/eu-medina/">
@@ -8,6 +8,7 @@
 
 ### About me:
 
+- 💻 Jr Front-end Developer
 - ⚛ Currently learning React with on [Rocketseat](https://www.rocketseat.com.br/)
 - 🔎 Looking for a job.
 
