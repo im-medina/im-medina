@@ -1,4 +1,4 @@
-## Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Medina
+# Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Medina
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/eu-medina/">
