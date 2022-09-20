@@ -8,9 +8,8 @@
 
 ### About me:
 
-- ⚛ Currently learning React
+- ⚛ Currently learning React with on [Rocketseat](https://www.rocketseat.com.br/)
 - 🔎 Looking for a job.
-- 🚩 Currently living in Niterói - Rio de Janeiro, Brazil
 
 ### Languages and tools:
 
