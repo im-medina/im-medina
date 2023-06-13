@@ -9,8 +9,8 @@
 ### About me:
 
 - 💻 Front-end Developer
-- ⚛ Currently learning React with on [Rocketseat](https://www.rocketseat.com.br/)
-- 🔎 Looking for a job.
+- ⚛ Currently learning React, React Native and Node on [Rocketseat](https://www.rocketseat.com.br/)
+- 🔎 Looking for full time a job.
 
 ### Languages and tools:
 
