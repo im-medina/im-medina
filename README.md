@@ -8,7 +8,7 @@
 
 ### About me:
 
-- 💻 Jr Front-end Developer
+- 💻 Front-end Developer
 - ⚛ Currently learning React with on [Rocketseat](https://www.rocketseat.com.br/)
 - 🔎 Looking for a job.
 
