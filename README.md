@@ -12,7 +12,7 @@
 - ⚛ Currently learning React, React Native and Node on [Rocketseat](https://www.rocketseat.com.br/)
 - 🔎 Looking for full time a job.
 
-### Languages and tools:
+### Stacks:
 
 <div>
 
