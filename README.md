@@ -11,6 +11,7 @@
 - 💻 Front-end Developer
 - ⚛ Improving my skills with React, React Native and Node on [@Rocketseat](https://www.rocketseat.com.br/)
 - 🔎 Looking for full time a job.
+- 🚩 Niterói, Rio de Janeiro - Brazil
 
 ### Stacks:
 
